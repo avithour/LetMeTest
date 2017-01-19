@@ -12,3 +12,6 @@ Languages used in this project:
 - CSS
 - PHP
 - JSON
+
+For better development, I will be using Bootstrap as the Frontend Framework.
+- Bootstrap V3
